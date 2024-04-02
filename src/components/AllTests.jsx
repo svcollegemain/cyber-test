@@ -16,7 +16,7 @@ export default function AllTests() {
                     <ChooseTests key='cyber' logo={test.logo} info={test.info} title='cyber'/>
                 ))}
                 <p className="mb-0">
-                    SVCOLLEGE כל הזכויות שמורות@
+                    @SVCOLLEGE כל הזכויות שמורות
                 </p>
             </div>
         </div>
